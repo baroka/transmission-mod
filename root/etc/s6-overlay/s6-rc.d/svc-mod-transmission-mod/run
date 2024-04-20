@@ -1,0 +1,4 @@
+#!/usr/bin/with-contenv bash
+
+# Run magnet watch in background
+/usr/local/bin/magnet.sh
